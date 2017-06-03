@@ -1,0 +1,75 @@
+[INFO  - 2017-05-18T13:30:09.777Z] GhostDriver - Main - running on port 60208
+[INFO  - 2017-05-18T13:30:09.949Z] Session [1d534e30-3bce-11e7-9551-d5d027f2bdc9] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":false,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-05-18T13:30:09.949Z] Session [1d534e30-3bce-11e7-9551-d5d027f2bdc9] - page.customHeaders:  - {}
+[INFO  - 2017-05-18T13:30:09.953Z] Session [1d534e30-3bce-11e7-9551-d5d027f2bdc9] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-05-18T13:30:09.954Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 1d534e30-3bce-11e7-9551-d5d027f2bdc9
+[ERROR - 2017-05-18T13:30:11.630Z] Session [1d534e30-3bce-11e7-9551-d5d027f2bdc9] - page.onError - msg: kg/combobox/6.2.7/index is not loaded! can not find module in path : https://g.alicdn.com/kg/??combobox/6.2.7/index-min.js,search-suggest/6.2.11/mods/local-query-min.js,search-suggest/6.2.11/mods/menu-min.js,search-suggest/6.2.11/tpl/cloud-min.js,search-suggest/6.2.11/mods/bts-min.js,uploader/6.2.13/index-min.js,uploader/6.2.13/plugins/auth/auth-min.js,uploader/6.2.13/plugins/filedrop/filedrop-min.js,search-suggest/6.2.11/mods/stat-min.js,uploader/6.2.13/theme-min.js
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-05-18T13:30:11.631Z] Session [1d534e30-3bce-11e7-9551-d5d027f2bdc9] - page.onError - stack:
+  (anonymous function) (https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.5/index-min.js,tb/tracker/4.0.1/p/index/index.js,kg/tb-nav/2.3.2/index-min.js,secdev/sufei_data/2.2.0/index.js:5)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-05-18T13:30:11.631Z] Session [1d534e30-3bce-11e7-9551-d5d027f2bdc9] - page.onError - msg: kg/search-suggest/6.2.11/mods/local-query is not loaded! can not find module in path : https://g.alicdn.com/kg/??combobox/6.2.7/index-min.js,search-suggest/6.2.11/mods/local-query-min.js,search-suggest/6.2.11/mods/menu-min.js,search-suggest/6.2.11/tpl/cloud-min.js,search-suggest/6.2.11/mods/bts-min.js,uploader/6.2.13/index-min.js,uploader/6.2.13/plugins/auth/auth-min.js,uploader/6.2.13/plugins/filedrop/filedrop-min.js,search-suggest/6.2.11/mods/stat-min.js,uploader/6.2.13/theme-min.js
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-05-18T13:30:11.631Z] Session [1d534e30-3bce-11e7-9551-d5d027f2bdc9] - page.onError - stack:
+  (anonymous function) (https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.5/index-min.js,tb/tracker/4.0.1/p/index/index.js,kg/tb-nav/2.3.2/index-min.js,secdev/sufei_data/2.2.0/index.js:5)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-05-18T13:30:11.632Z] Session [1d534e30-3bce-11e7-9551-d5d027f2bdc9] - page.onError - msg: kg/search-suggest/6.2.11/mods/menu is not loaded! can not find module in path : https://g.alicdn.com/kg/??combobox/6.2.7/index-min.js,search-suggest/6.2.11/mods/local-query-min.js,search-suggest/6.2.11/mods/menu-min.js,search-suggest/6.2.11/tpl/cloud-min.js,search-suggest/6.2.11/mods/bts-min.js,uploader/6.2.13/index-min.js,uploader/6.2.13/plugins/auth/auth-min.js,uploader/6.2.13/plugins/filedrop/filedrop-min.js,search-suggest/6.2.11/mods/stat-min.js,uploader/6.2.13/theme-min.js
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-05-18T13:30:11.632Z] Session [1d534e30-3bce-11e7-9551-d5d027f2bdc9] - page.onError - stack:
+  (anonymous function) (https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.5/index-min.js,tb/tracker/4.0.1/p/index/index.js,kg/tb-nav/2.3.2/index-min.js,secdev/sufei_data/2.2.0/index.js:5)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-05-18T13:30:11.632Z] Session [1d534e30-3bce-11e7-9551-d5d027f2bdc9] - page.onError - msg: kg/search-suggest/6.2.11/tpl/cloud is not loaded! can not find module in path : https://g.alicdn.com/kg/??combobox/6.2.7/index-min.js,search-suggest/6.2.11/mods/local-query-min.js,search-suggest/6.2.11/mods/menu-min.js,search-suggest/6.2.11/tpl/cloud-min.js,search-suggest/6.2.11/mods/bts-min.js,uploader/6.2.13/index-min.js,uploader/6.2.13/plugins/auth/auth-min.js,uploader/6.2.13/plugins/filedrop/filedrop-min.js,search-suggest/6.2.11/mods/stat-min.js,uploader/6.2.13/theme-min.js
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-05-18T13:30:11.632Z] Session [1d534e30-3bce-11e7-9551-d5d027f2bdc9] - page.onError - stack:
+  (anonymous function) (https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.5/index-min.js,tb/tracker/4.0.1/p/index/index.js,kg/tb-nav/2.3.2/index-min.js,secdev/sufei_data/2.2.0/index.js:5)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-05-18T13:30:11.633Z] Session [1d534e30-3bce-11e7-9551-d5d027f2bdc9] - page.onError - msg: kg/search-suggest/6.2.11/mods/bts is not loaded! can not find module in path : https://g.alicdn.com/kg/??combobox/6.2.7/index-min.js,search-suggest/6.2.11/mods/local-query-min.js,search-suggest/6.2.11/mods/menu-min.js,search-suggest/6.2.11/tpl/cloud-min.js,search-suggest/6.2.11/mods/bts-min.js,uploader/6.2.13/index-min.js,uploader/6.2.13/plugins/auth/auth-min.js,uploader/6.2.13/plugins/filedrop/filedrop-min.js,search-suggest/6.2.11/mods/stat-min.js,uploader/6.2.13/theme-min.js
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-05-18T13:30:11.633Z] Session [1d534e30-3bce-11e7-9551-d5d027f2bdc9] - page.onError - stack:
+  (anonymous function) (https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.5/index-min.js,tb/tracker/4.0.1/p/index/index.js,kg/tb-nav/2.3.2/index-min.js,secdev/sufei_data/2.2.0/index.js:5)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-05-18T13:30:11.633Z] Session [1d534e30-3bce-11e7-9551-d5d027f2bdc9] - page.onError - msg: kg/uploader/6.2.13/index is not loaded! can not find module in path : https://g.alicdn.com/kg/??combobox/6.2.7/index-min.js,search-suggest/6.2.11/mods/local-query-min.js,search-suggest/6.2.11/mods/menu-min.js,search-suggest/6.2.11/tpl/cloud-min.js,search-suggest/6.2.11/mods/bts-min.js,uploader/6.2.13/index-min.js,uploader/6.2.13/plugins/auth/auth-min.js,uploader/6.2.13/plugins/filedrop/filedrop-min.js,search-suggest/6.2.11/mods/stat-min.js,uploader/6.2.13/theme-min.js
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-05-18T13:30:11.633Z] Session [1d534e30-3bce-11e7-9551-d5d027f2bdc9] - page.onError - stack:
+  (anonymous function) (https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.5/index-min.js,tb/tracker/4.0.1/p/index/index.js,kg/tb-nav/2.3.2/index-min.js,secdev/sufei_data/2.2.0/index.js:5)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-05-18T13:30:11.634Z] Session [1d534e30-3bce-11e7-9551-d5d027f2bdc9] - page.onError - msg: kg/uploader/6.2.13/plugins/auth/auth is not loaded! can not find module in path : https://g.alicdn.com/kg/??combobox/6.2.7/index-min.js,search-suggest/6.2.11/mods/local-query-min.js,search-suggest/6.2.11/mods/menu-min.js,search-suggest/6.2.11/tpl/cloud-min.js,search-suggest/6.2.11/mods/bts-min.js,uploader/6.2.13/index-min.js,uploader/6.2.13/plugins/auth/auth-min.js,uploader/6.2.13/plugins/filedrop/filedrop-min.js,search-suggest/6.2.11/mods/stat-min.js,uploader/6.2.13/theme-min.js
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-05-18T13:30:11.634Z] Session [1d534e30-3bce-11e7-9551-d5d027f2bdc9] - page.onError - stack:
+  (anonymous function) (https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.5/index-min.js,tb/tracker/4.0.1/p/index/index.js,kg/tb-nav/2.3.2/index-min.js,secdev/sufei_data/2.2.0/index.js:5)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-05-18T13:30:11.634Z] Session [1d534e30-3bce-11e7-9551-d5d027f2bdc9] - page.onError - msg: kg/uploader/6.2.13/plugins/filedrop/filedrop is not loaded! can not find module in path : https://g.alicdn.com/kg/??combobox/6.2.7/index-min.js,search-suggest/6.2.11/mods/local-query-min.js,search-suggest/6.2.11/mods/menu-min.js,search-suggest/6.2.11/tpl/cloud-min.js,search-suggest/6.2.11/mods/bts-min.js,uploader/6.2.13/index-min.js,uploader/6.2.13/plugins/auth/auth-min.js,uploader/6.2.13/plugins/filedrop/filedrop-min.js,search-suggest/6.2.11/mods/stat-min.js,uploader/6.2.13/theme-min.js
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-05-18T13:30:11.634Z] Session [1d534e30-3bce-11e7-9551-d5d027f2bdc9] - page.onError - stack:
+  (anonymous function) (https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.5/index-min.js,tb/tracker/4.0.1/p/index/index.js,kg/tb-nav/2.3.2/index-min.js,secdev/sufei_data/2.2.0/index.js:5)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-05-18T13:30:11.635Z] Session [1d534e30-3bce-11e7-9551-d5d027f2bdc9] - page.onError - msg: kg/search-suggest/6.2.11/mods/stat is not loaded! can not find module in path : https://g.alicdn.com/kg/??combobox/6.2.7/index-min.js,search-suggest/6.2.11/mods/local-query-min.js,search-suggest/6.2.11/mods/menu-min.js,search-suggest/6.2.11/tpl/cloud-min.js,search-suggest/6.2.11/mods/bts-min.js,uploader/6.2.13/index-min.js,uploader/6.2.13/plugins/auth/auth-min.js,uploader/6.2.13/plugins/filedrop/filedrop-min.js,search-suggest/6.2.11/mods/stat-min.js,uploader/6.2.13/theme-min.js
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-05-18T13:30:11.635Z] Session [1d534e30-3bce-11e7-9551-d5d027f2bdc9] - page.onError - stack:
+  (anonymous function) (https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.5/index-min.js,tb/tracker/4.0.1/p/index/index.js,kg/tb-nav/2.3.2/index-min.js,secdev/sufei_data/2.2.0/index.js:5)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-05-18T13:30:11.635Z] Session [1d534e30-3bce-11e7-9551-d5d027f2bdc9] - page.onError - msg: kg/uploader/6.2.13/theme is not loaded! can not find module in path : https://g.alicdn.com/kg/??combobox/6.2.7/index-min.js,search-suggest/6.2.11/mods/local-query-min.js,search-suggest/6.2.11/mods/menu-min.js,search-suggest/6.2.11/tpl/cloud-min.js,search-suggest/6.2.11/mods/bts-min.js,uploader/6.2.13/index-min.js,uploader/6.2.13/plugins/auth/auth-min.js,uploader/6.2.13/plugins/filedrop/filedrop-min.js,search-suggest/6.2.11/mods/stat-min.js,uploader/6.2.13/theme-min.js
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-05-18T13:30:11.635Z] Session [1d534e30-3bce-11e7-9551-d5d027f2bdc9] - page.onError - stack:
+  (anonymous function) (https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.5/index-min.js,tb/tracker/4.0.1/p/index/index.js,kg/tb-nav/2.3.2/index-min.js,secdev/sufei_data/2.2.0/index.js:5)
+
+  phantomjs://platform/console++.js:263 in error
